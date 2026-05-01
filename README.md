@@ -1,20 +1,21 @@
-<h1 align="center">Greetings!</h1>
-<h3 align="center">My name is Hojamuhammet and as a Golang back-end developer, I am driven by a passion for continuous learning and professional growth. With a solid grasp of Golang, I am focused on enhancing my expertise and building dependable back-end systems. I welcome challenges as chances to improve and am enthusiastic about contributing to impactful projects. I'm excited to collaborate and advance in this coding journey together!</h3>
+# Hojamuhammet Atdayev
 
-- 🌱 I’m currently learning **Elasticsearch, Clickhouse and Kubernetes**
+I build **AI automation systems** and **backend infrastructure** — production tools, not demos.
 
-- 👨‍💻 All of my projects are available at [github.com/hojamuhammet](github.com/hojamuhammet)
+## What I work on
 
-- 💬 Ask me about **Golang, Python, gRPC, RabbitMQ, Redis, NoSQL, Websockets and SQL**
+**AI automation.** Agentic workflows, RAG, custom integrations, MCP. I run an agency around this. The interesting work is everything *around* the model — orchestration, evals, fallbacks, the parts that make an LLM behave like a system instead of a magic trick.
 
-- 📫 How to reach me **atdayewkemal@gmail.com**
+**Backend engineering.** Go and Python. gRPC, queues, real-time. I tend to over-invest in observability and under-invest in cleverness.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19406280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19406280" height="30" width="40" /></a>
-<a href="https://fb.com/kemal.atdayew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kemal.atdayew" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hojamuhammet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atdayev" height="30" width="40" /></a>
-</p>
+**Data and messaging.** PostgreSQL, MongoDB, Redis, RabbitMQ. The plumbing that decides whether anything else matters.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## Working with me
+
+I take on AI automation projects and select backend engineering contracts. The best fits are problems where the requirements are still getting clearer.
+
+`atdayewkemal@gmail.com`
+
+---
+
+<sub>Go · Python · PostgreSQL · MongoDB · Redis · RabbitMQ · gRPC · WebSockets · Docker · Linux · LangChain · MCP</sub>
